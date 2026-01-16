@@ -21,9 +21,8 @@
 
 
 ## Find me around the web 🌎 <a href="https://leetcode.com/swastiksharmaaa09/"><img align="left" width="150" height="146" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></a>
-   - Building on <a href="https://github.com/dekuxdseek">Github</a> 😍
-   - Practising on <a href="https://leetcode.com">Leetcode</a> 🙃
-   - Sharing updates on <a href="https://www.linkedin.com/in/swastik-sharma-720777212/">LinkedIn</a> 😇
+   - Building on <a href="https://github.com/ss-th24">Github</a> 😍
+   - Sharing updates on <a href="https://www.linkedin.com/in/swastik-sharma-3a35bb3a6/">LinkedIn</a> 😇
 
 
 
