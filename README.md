@@ -14,9 +14,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Chandigarh University.\
-👯 &nbsp;I’m looking to collaborate on projects.\
-🌱 &nbsp;I’m currently learning React and i like do DSA problems in my free time.\
+🎓 &nbsp;I'm currently building and breaking systems.\
+👯 &nbsp;I’m looking to work on real products.\
+🌱 &nbsp;I’m currently learning database systems and i like do build backend APIs in my free time.\
 ✉️ &nbsp;You can shoot me an email at swastiksharmaaa09@gmail.com! I'll try to respond as soon as I can.
 
 
