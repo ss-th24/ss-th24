@@ -15,7 +15,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🌱 &nbsp;I’m currently learning database systems and i like do build backend APIs in my free time.\
-✉️ &nbsp;You can shoot me an email at swastiksharmaaa09@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at swastiksharmaaa09@gmail.com! 
+I'll try to respond as soon as I can.
 
 
 ## Find me around the web 🌎 <a href="https://leetcode.com/swastiksharmaaa09/"><img align="left" width="150" height="146" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></a>
