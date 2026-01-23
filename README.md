@@ -1,2 +1,2 @@
-Backend Systems | Databases | First Principles\n
-email : swastiksharmaaa09@gmail.com
+Backend Systems | Databases | First Principles  
+email: swastiksharmaaa09@gmail.com
